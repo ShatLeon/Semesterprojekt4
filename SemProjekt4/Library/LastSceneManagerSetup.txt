@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/+++Workdata/Scenes/Test Scene (baking).unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
